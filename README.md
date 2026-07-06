@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhavya-jain07/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhavya-jain07/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhavya-jain07/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
