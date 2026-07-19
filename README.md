@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bhavya-jain07/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 ## Union-Find
 |  |
