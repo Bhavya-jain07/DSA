@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Bhavya-jain07/DSA/tree/master/0062-unique-paths) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 ## Union-Find
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Bhavya-jain07/DSA/tree/master/0062-unique-paths) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavya-jain07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Bhavya-jain07/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
