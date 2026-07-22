@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Bhavya-jain07/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Bhavya-jain07/DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Bhavya-jain07/DSA/tree/master/0135-candy) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Bhavya-jain07/DSA/tree/master/0062-unique-paths) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Bhavya-jain07/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
