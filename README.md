@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Bhavya-jain07/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Bhavya-jain07/DSA/tree/master/0120-triangle) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavya-jain07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavya-jain07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
