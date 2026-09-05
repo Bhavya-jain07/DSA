@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Bhavya-jain07/DSA/tree/master/1765-map-of-highest-peak) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3904-smallest-stable-index-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
