@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Bhavya-jain07/DSA/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/Bhavya-jain07/DSA/tree/master/0312-burst-balloons) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/Bhavya-jain07/DSA/tree/master/1143-longest-common-subsequence) |
 ## Union-Find
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavya-jain07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Bhavya-jain07/DSA/tree/master/1143-longest-common-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhavya-jain07/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Bhavya-jain07/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
