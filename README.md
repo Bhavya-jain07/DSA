@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Bhavya-jain07/DSA/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya-jain07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0312-burst-balloons](https://github.com/Bhavya-jain07/DSA/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Bhavya-jain07/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhavya-jain07/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Bhavya-jain07/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
@@ -56,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Bhavya-jain07/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhavya-jain07/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
@@ -74,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Bhavya-jain07/DSA/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/Bhavya-jain07/DSA/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bhavya-jain07/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1143-longest-common-subsequence](https://github.com/Bhavya-jain07/DSA/tree/master/1143-longest-common-subsequence) |
@@ -86,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Bhavya-jain07/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -139,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Bhavya-jain07/DSA/tree/master/1143-longest-common-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
