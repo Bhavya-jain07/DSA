@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Bhavya-jain07/DSA/tree/master/1765-map-of-highest-peak) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhavya-jain07/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Bhavya-jain07/DSA/tree/master/1765-map-of-highest-peak) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhavya-jain07/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/Bhavya-jain07/DSA/tree/master/1765-map-of-highest-peak) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -61,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Bhavya-jain07/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhavya-jain07/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
@@ -83,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bhavya-jain07/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1143-longest-common-subsequence](https://github.com/Bhavya-jain07/DSA/tree/master/1143-longest-common-subsequence) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -93,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Bhavya-jain07/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
