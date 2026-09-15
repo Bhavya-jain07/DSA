@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Bhavya-jain07/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
+| [0091-decode-ways](https://github.com/Bhavya-jain07/DSA/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Bhavya-jain07/DSA/tree/master/0120-triangle) |
 | [0312-burst-balloons](https://github.com/Bhavya-jain07/DSA/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/Bhavya-jain07/DSA/tree/master/0091-decode-ways) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bhavya-jain07/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavya-jain07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Bhavya-jain07/DSA/tree/master/1143-longest-common-subsequence) |
