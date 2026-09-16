@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhavya-jain07/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Bhavya-jain07/DSA/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Bhavya-jain07/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Bhavya-jain07/DSA/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya-jain07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0312-burst-balloons](https://github.com/Bhavya-jain07/DSA/tree/master/0312-burst-balloons) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhavya-jain07/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhavya-jain07/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhavya-jain07/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
