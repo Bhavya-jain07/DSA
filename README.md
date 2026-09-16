@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya-jain07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0312-burst-balloons](https://github.com/Bhavya-jain07/DSA/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Bhavya-jain07/DSA/tree/master/0056-merge-intervals) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhavya-jain07/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Enumeration
 |  |
@@ -170,5 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhavya-jain07/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
