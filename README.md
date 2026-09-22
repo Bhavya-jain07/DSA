@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhavya-jain07/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3525-find-x-value-of-array-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya-jain07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhavya-jain07/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhavya-jain07/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
