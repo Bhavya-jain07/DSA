@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bhavya-jain07/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavya-jain07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Bhavya-jain07/DSA/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhavya-jain07/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya-jain07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavya-jain07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Bhavya-jain07/DSA/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
