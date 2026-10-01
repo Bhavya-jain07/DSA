@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Bhavya-jain07/DSA/tree/master/0091-decode-ways) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bhavya-jain07/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Bhavya-jain07/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhavya-jain07/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -200,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
