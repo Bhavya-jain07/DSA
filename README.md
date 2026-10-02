@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Bhavya-jain07/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0063-unique-paths-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Bhavya-jain07/DSA/tree/master/0091-decode-ways) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Bhavya-jain07/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -203,5 +205,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Bhavya-jain07/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
