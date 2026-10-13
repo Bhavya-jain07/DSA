@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Bhavya-jain07/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0502-ipo](https://github.com/Bhavya-jain07/DSA/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bhavya-jain07/DSA/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhavya-jain07/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Bhavya-jain07/DSA/tree/master/0502-ipo) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhavya-jain07/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Bhavya-jain07/DSA/tree/master/0135-candy) |
+| [0502-ipo](https://github.com/Bhavya-jain07/DSA/tree/master/0502-ipo) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhavya-jain07/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Bhavya-jain07/DSA/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhavya-jain07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/Bhavya-jain07/DSA/tree/master/0502-ipo) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhavya-jain07/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Enumeration
 |  |
